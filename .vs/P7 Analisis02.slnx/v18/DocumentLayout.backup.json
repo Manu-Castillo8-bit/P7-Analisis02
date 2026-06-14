@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis02\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDC0A44-B2E0-3D09-29D1-BA265AAFD4D0}|P7 Analisis02\\P7 Analisis02.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\p7 analisis02\\p7 analisis02\\pagina3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDC0A44-B2E0-3D09-29D1-BA265AAFD4D0}|P7 Analisis02\\P7 Analisis02.csproj|solutionrelative:p7 analisis02\\pagina3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDC0A44-B2E0-3D09-29D1-BA265AAFD4D0}|P7 Analisis02\\P7 Analisis02.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\p7 analisis02\\p7 analisis02\\pagina3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CDC0A44-B2E0-3D09-29D1-BA265AAFD4D0}|P7 Analisis02\\P7 Analisis02.csproj|solutionrelative:p7 analisis02\\pagina3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDC0A44-B2E0-3D09-29D1-BA265AAFD4D0}|P7 Analisis02\\P7 Analisis02.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\p7 analisis02\\p7 analisis02\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDC0A44-B2E0-3D09-29D1-BA265AAFD4D0}|P7 Analisis02\\P7 Analisis02.csproj|solutionrelative:p7 analisis02\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDC0A44-B2E0-3D09-29D1-BA265AAFD4D0}|P7 Analisis02\\P7 Analisis02.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\p7 analisis02\\p7 analisis02\\pagina2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CDC0A44-B2E0-3D09-29D1-BA265AAFD4D0}|P7 Analisis02\\P7 Analisis02.csproj|solutionrelative:p7 analisis02\\pagina2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDC0A44-B2E0-3D09-29D1-BA265AAFD4D0}|P7 Analisis02\\P7 Analisis02.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\p7 analisis02\\p7 analisis02\\pagina2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDC0A44-B2E0-3D09-29D1-BA265AAFD4D0}|P7 Analisis02\\P7 Analisis02.csproj|solutionrelative:p7 analisis02\\pagina2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDC0A44-B2E0-3D09-29D1-BA265AAFD4D0}|P7 Analisis02\\P7 Analisis02.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\p7 analisis02\\p7 analisis02\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CDC0A44-B2E0-3D09-29D1-BA265AAFD4D0}|P7 Analisis02\\P7 Analisis02.csproj|solutionrelative:p7 analisis02\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDC0A44-B2E0-3D09-29D1-BA265AAFD4D0}|P7 Analisis02\\P7 Analisis02.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\p7 analisis02\\p7 analisis02\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDC0A44-B2E0-3D09-29D1-BA265AAFD4D0}|P7 Analisis02\\P7 Analisis02.csproj|solutionrelative:p7 analisis02\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +38,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pagina3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis02\\P7 Analisis02\\Pagina3.xaml.cs",
+              "RelativeDocumentMoniker": "P7 Analisis02\\Pagina3.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis02\\P7 Analisis02\\Pagina3.xaml.cs*",
+              "RelativeToolTip": "P7 Analisis02\\Pagina3.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T22:48:05.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pagina3.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis02\\P7 Analisis02\\Pagina3.xaml",
+              "RelativeDocumentMoniker": "P7 Analisis02\\Pagina3.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis02\\P7 Analisis02\\Pagina3.xaml*",
+              "RelativeToolTip": "P7 Analisis02\\Pagina3.xaml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-14T22:47:48.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pagina2.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis02\\P7 Analisis02\\Pagina2.xaml",
+              "RelativeDocumentMoniker": "P7 Analisis02\\Pagina2.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis02\\P7 Analisis02\\Pagina2.xaml*",
+              "RelativeToolTip": "P7 Analisis02\\Pagina2.xaml*",
+              "ViewState": "AgIAAAEAAABgMzMzMzMLwAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-14T22:34:59.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pagina2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis02\\P7 Analisis02\\Pagina2.xaml.cs",
+              "RelativeDocumentMoniker": "P7 Analisis02\\Pagina2.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis02\\P7 Analisis02\\Pagina2.xaml.cs",
+              "RelativeToolTip": "P7 Analisis02\\Pagina2.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T22:34:53.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis02\\P7 Analisis02\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "P7 Analisis02\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis02\\P7 Analisis02\\AppShell.xaml.cs",
+              "RelativeToolTip": "P7 Analisis02\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T22:33:25.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis02\\P7 Analisis02\\MainPage.xaml",
+              "RelativeDocumentMoniker": "P7 Analisis02\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis02\\P7 Analisis02\\MainPage.xaml",
+              "RelativeToolTip": "P7 Analisis02\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-14T22:33:19.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis02\\P7 Analisis02\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "P7 Analisis02\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\P7 Analisis02\\P7 Analisis02\\MainPage.xaml.cs",
+              "RelativeToolTip": "P7 Analisis02\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T22:33:09.699Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"

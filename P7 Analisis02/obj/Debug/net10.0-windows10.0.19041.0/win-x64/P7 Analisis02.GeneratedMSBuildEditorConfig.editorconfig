@@ -58,6 +58,26 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
+[C:/Users/User/Desktop/Práctica 7/P7 Analisis02/P7 Analisis02/Pagina2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = P7_Analisis02.Pagina2.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagina2.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagina2.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[C:/Users/User/Desktop/Práctica 7/P7 Analisis02/P7 Analisis02/Pagina3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = P7_Analisis02.Pagina3.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagina3.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagina3.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
 [C:/Users/User/Desktop/Práctica 7/P7 Analisis02/P7 Analisis02/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = P7_Analisis02.Resources.Styles.Colors.xaml

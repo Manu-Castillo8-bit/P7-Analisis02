@@ -1,6 +1,4 @@
-﻿using Microsoft.Extensions.DependencyInjection;
-
-namespace P7_Analisis02
+﻿namespace P7_Analisis02
 {
     public partial class App : Application
     {

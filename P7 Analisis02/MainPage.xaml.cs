@@ -2,7 +2,7 @@
 {
     public partial class MainPage : ContentPage
     {
-       
+
 
         public MainPage()
         {
@@ -11,13 +11,13 @@
 
         private void OnCounterClicked(object? sender, EventArgs e)
         {
-             Navigation.PushAsync(new Pagina2());
+            Navigation.PushAsync(new Pagina2());
         }
 
 
         private void OnCounterClicked1(object? sender, EventArgs e)
         {
-             Navigation.PushAsync(new Pagina3());
+            Navigation.PushAsync(new Pagina3());
         }
 
     }

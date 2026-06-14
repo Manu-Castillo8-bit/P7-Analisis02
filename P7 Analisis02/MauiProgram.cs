@@ -16,7 +16,7 @@ namespace P7_Analisis02
                 });
 
 #if DEBUG
-    		builder.Logging.AddDebug();
+            builder.Logging.AddDebug();
 #endif
 
             return builder.Build();
